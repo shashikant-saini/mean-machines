@@ -1,0 +1,135 @@
+.head1{
+  border-radius: 4px;
+  align-items: center;
+    align-items: center;
+    padding-bottom: 2vw;
+    padding-top: 7px;
+    
+  }
+  .head{
+    background-color: red  ;
+    border-radius: 10px;
+    opacity: 0.75;
+    text-align: center;
+
+  }
+  .head:hover{
+    background-color: red  ;
+    border-radius: 10px;
+    opacity: 1;
+    text-align: center;
+
+  }
+header{
+  padding-left: 10%;
+    padding-right: 10%;
+  padding-top: 2vh;
+position: relative;
+height: 30%;
+
+
+}
+body{
+  padding-top: 8px;
+  height: auto;
+  background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("https://www.bigboytoyz.com/theme/BBT/img/gurgaon/home/08.jpg");
+
+  align-content: center;
+  align-items: center;
+    background-size: cover; 
+  border: 0ch;
+margin: 0%;
+padding: 0%;
+word-spacing: 5px;
+font-weight: medium;
+letter-spacing: 1px;
+font-family: 'Montserrat', sans-serif;
+}
+.abc{
+  padding-top: 20px;
+}
+.sell1{
+  padding-left: 400px;
+ }
+ .sell2{
+  padding-left: 610px;
+ }
+
+ .sell3{
+  padding-left: 800px;
+ }
+
+.a{
+  color: red;
+  border-radius: 20px;
+  float: left;
+  height: 30px;
+  width: max-content;
+  padding: 14px 25px 5px 25px;
+  background-color  : white ;
+ 
+  opacity: 0.8;
+  transition: all .5s ease-in-out; 
+}
+.a:hover{
+  border-radius: 20px;
+  float: left;
+  height: 30px;
+  width: max-content;
+  padding: 14px 25px 5px 25px;
+  align-content: center;
+  opacity: 1.1;
+  background-color:  red;
+  transform: scale(1.5);
+  transition: all .5s ease-in-out; 
+  
+}
+a{
+  color: black;
+  text-decoration: none;
+  
+
+}
+a:hover{
+  color: white;
+  text-decoration: none;
+  
+
+}
+.ay{
+  font-size: 40px;
+  color: white;
+}
+h3{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+footer{
+  padding-top: 20px; 
+  color: white;
+  text-align: center;
+}
+.quote1{
+  color: white;
+  text-align: center;
+}
+.quote{
+
+  padding-top: 40px;
+}
+.links{
+  padding-top: 27vh;
+  padding-bottom: 10vh;
+}
+.logo{
+  padding-left:38vw;
+}
+ .logo1{
+padding-left:  2vw;
+    float: left;
+  list-style: none;
+}
+h2{
+  text-align: center;
+  font-family:  'Montserrat', sans-serif;
+}
